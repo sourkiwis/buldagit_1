@@ -1,3 +1,3 @@
 # buldagit_1
 
-arSPiCHR
+arSPiCHflaR
